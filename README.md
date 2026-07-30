@@ -157,6 +157,7 @@ User Selects Option / Inputs Logs
 
 ---
 
+
 ## Future Improvements
 
 - **bcrypt / Argon2id Hashing**: Secure hashed storage for credentials.
