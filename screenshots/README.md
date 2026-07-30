@@ -40,7 +40,12 @@ This folder contains screenshot guides and instructions for demonstrating execut
    -  <img width="1026" height="713" alt="Screenshot 2026-07-30 155923" 
          src="https://github.com/user-attachments/assets/26754905-dad9-4ed0-a4b2-b8106b7ac66b" />
    - <img width="948" height="937" alt="Screenshot 2026-07-30 155936" src="https://github.com/user-attachments/assets/e2880a5e-bf8e-456b-9271-90c0b585ea6c" />
-   - <img width="621" height="802" alt="Screenshot 2026-07-30 155948" src="https://github.com/user-attachments/assets/2fa77e77-e672-41a1-ab1a-968a53ed4812" />
+
+
+7. **`module7.png`**: Exit
+   - Exit Option Selected.
+   - <img width="621" height="802" alt="Screenshot 2026-07-30 155948" src="https://github.com/user-attachments/assets/f526654f-0724-4e33-b3e8-0c8ac42b8eb7" />
+
 
 
 
