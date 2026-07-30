@@ -1,14 +1,14 @@
 # Cybersecurity Authentication Toolkit
 
 ```text
-===================================================================
-   ______ _____  ____ _____    _  _____   ____ ____ ______   __
-  / ___/ / / / |/ / // / _ \  / |/ / _ \ / __// __//  _/ /  / /
- / /__/ /_/ /    / _  / // / /    / // // _/ _\ \  / // /__/ / 
- \___/\____/_/|_/_//_/\___/ /_/|_/\___//___//___//___/____/_/  
-                                                               
-                 SECURE AUTHENTICATION TOOLKIT
-===================================================================
+██████╗ ██╗   ██╗██████╗ ███████╗██████╗
+██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
+██████╔╝ ╚████╔╝ ██████╔╝█████╗  ██████╔╝
+██╔═══╝   ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
+██║        ██║   ██████╔╝███████╗██║  ██║
+╚═╝        ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+
+Cybersecurity Authentication Toolkit
 ```
 
 A Python-based cybersecurity toolkit simulating secure authentication mechanisms, password evaluation, CSPRNG password generation, and detection algorithms for brute-force and password-guessing attacks.
