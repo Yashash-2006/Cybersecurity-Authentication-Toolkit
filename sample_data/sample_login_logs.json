@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-07-30T10:00:01Z",
+    "ip_address": "192.168.1.10",
+    "username": "alice",
+    "status": "SUCCESS",
+    "password_attempted": "AliceSecureP@ss1"
+  },
+  {
+    "timestamp": "2026-07-30T10:05:12Z",
+    "ip_address": "192.168.1.105",
+    "username": "admin",
+    "status": "FAILED",
+    "password_attempted": "admin123"
+  },
+  {
+    "timestamp": "2026-07-30T10:05:15Z",
+    "ip_address": "192.168.1.105",
+    "username": "admin",
+    "status": "FAILED",
+    "password_attempted": "root"
+  },
+  {
+    "timestamp": "2026-07-30T10:05:18Z",
+    "ip_address": "192.168.1.105",
+    "username": "admin",
+    "status": "FAILED",
+    "password_attempted": "123456"
+  },
+  {
+    "timestamp": "2026-07-30T10:05:22Z",
+    "ip_address": "192.168.1.105",
+    "username": "root",
+    "status": "FAILED",
+    "password_attempted": "toor"
+  },
+  {
+    "timestamp": "2026-07-30T10:05:28Z",
+    "ip_address": "192.168.1.105",
+    "username": "supervisor",
+    "status": "FAILED",
+    "password_attempted": "supervisor2026"
+  },
+  {
+    "timestamp": "2026-07-30T10:10:00Z",
+    "ip_address": "10.0.0.50",
+    "username": "victim_user",
+    "status": "FAILED",
+    "password_attempted": "123456"
+  },
+  {
+    "timestamp": "2026-07-30T10:10:05Z",
+    "ip_address": "10.0.0.50",
+    "username": "victim_user",
+    "status": "FAILED",
+    "password_attempted": "password"
+  },
+  {
+    "timestamp": "2026-07-30T10:10:10Z",
+    "ip_address": "10.0.0.50",
+    "username": "victim_user",
+    "status": "FAILED",
+    "password_attempted": "victim123"
+  },
+  {
+    "timestamp": "2026-07-30T10:10:15Z",
+    "ip_address": "10.0.0.50",
+    "username": "victim_user",
+    "status": "FAILED",
+    "password_attempted": "admin2026"
+  },
+  {
+    "timestamp": "2026-07-30T10:15:00Z",
+    "ip_address": "192.168.1.20",
+    "username": "john_doe",
+    "status": "FAILED",
+    "password_attempted": "johnpassword"
+  },
+  {
+    "timestamp": "2026-07-30T10:15:04Z",
+    "ip_address": "192.168.1.20",
+    "username": "john_doe",
+    "status": "FAILED",
+    "password_attempted": "johnpassword"
+  },
+  {
+    "timestamp": "2026-07-30T10:15:20Z",
+    "ip_address": "192.168.1.20",
+    "username": "john_doe",
+    "status": "SUCCESS",
+    "password_attempted": "JohnsCorrectP@ss2026!"
+  }
+]
