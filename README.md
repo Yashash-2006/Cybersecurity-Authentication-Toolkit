@@ -169,7 +169,7 @@ User Selects Option / Inputs Logs
 
 ## Author
 
-- **Cybersecurity Student**
+- **Yashash Chandra**
 - **Course**: Python for Cybersecurity
 - **Topic Tags**: `python` | `cybersecurity` | `authentication` | `password-security` | `brute-force` | `password-generator` | `login-system` | `security-tools`
 
