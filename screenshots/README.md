@@ -33,6 +33,16 @@ This folder contains screenshot guides and instructions for demonstrating execut
    - <img width="992" height="731" alt="Screenshot 2026-07-30 155855" src="https://github.com/user-attachments/assets/3693194e-77ce-4024-b8d5-e47c884a7402" />
 
 
+6. **`module6.png`**: Run Full Automated Security Audit
+   -  Run: `python main.py` $\rightarrow$ Option 6
+   -  Runs all five security modules sequentially to perform a comprehensive authentication security audit and generate a consolidated security analysis report.
+
+   -  <img width="1026" height="713" alt="Screenshot 2026-07-30 155923" 
+         src="https://github.com/user-attachments/assets/26754905-dad9-4ed0-a4b2-b8106b7ac66b" />
+   - <img width="948" height="937" alt="Screenshot 2026-07-30 155936" src="https://github.com/user-attachments/assets/e2880a5e-bf8e-456b-9271-90c0b585ea6c" />
+   - <img width="621" height="802" alt="Screenshot 2026-07-30 155948" src="https://github.com/user-attachments/assets/2fa77e77-e672-41a1-ab1a-968a53ed4812" />
+
+
 
 ---
 
