@@ -42,10 +42,14 @@ This folder contains screenshot guides and instructions for demonstrating execut
    - <img width="948" height="937" alt="Screenshot 2026-07-30 155936" src="https://github.com/user-attachments/assets/e2880a5e-bf8e-456b-9271-90c0b585ea6c" />
 
 
-7. **`module7.png`**: Exit
-   - Exit Option Selected.
-   - <img width="621" height="802" alt="Screenshot 2026-07-30 155948" src="https://github.com/user-attachments/assets/f526654f-0724-4e33-b3e8-0c8ac42b8eb7" />
+7. **`module7.png`**: Run Unit Test Suite
+   - Executes automated tests to verify that all toolkit modules function correctly and produce the expected results.
+   - <img width="1060" height="941" alt="Screenshot 2026-07-30 162650" src="https://github.com/user-attachments/assets/eb89b89c-58a3-42dc-9c4e-26885d485f1b" />
 
+
+8. **`module8.png`**: Exit
+   - Exit Option Selected.
+   - <img width="621" height="802" alt="Screenshot 2026-07-30 155948" src="https://github.com/user-attachments/assets/cc441288-9996-4c5c-8d7f-54c9f3e445c8" />
 
 
 
