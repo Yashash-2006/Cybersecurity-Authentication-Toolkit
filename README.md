@@ -1,15 +1,16 @@
 # Cybersecurity Authentication Toolkit
 
-```text
-██████╗ ██╗   ██╗██████╗ ███████╗██████╗
-██╔══██╗╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗
-██████╔╝ ╚████╔╝ ██████╔╝█████╗  ██████╔╝
-██╔═══╝   ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗
-██║        ██║   ██████╔╝███████╗██║  ██║
-╚═╝        ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝
+ █████╗ ███████╗ ██████╗ ██╗███████╗
+██╔══██╗██╔════╝██╔════╝ ██║██╔════╝
+███████║█████╗  ██║  ███╗██║███████╗
+██╔══██║██╔══╝  ██║   ██║██║╚════██║
+██║  ██║███████╗╚██████╔╝██║███████║
+╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝╚══════╝
 
-Cybersecurity Authentication Toolkit
-```
+═════════════════════════════════════════════════════════════════════
+        AI-Powered Cybersecurity Intelligence Platform
+     Authentication • Cryptography • Forensics • Network Security
+═════════════════════════════════════════════════════════════════════
 
 A Python-based cybersecurity toolkit simulating secure authentication mechanisms, password evaluation, CSPRNG password generation, and detection algorithms for brute-force and password-guessing attacks.
 
