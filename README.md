@@ -1,5 +1,23 @@
 # Cybersecurity Authentication Toolkit
 
+```text
+ █████╗ ███████╗ ██████╗ ██╗███████╗
+██╔══██╗██╔════╝██╔════╝ ██║██╔════╝
+███████║█████╗  ██║  ███╗██║███████╗
+██╔══██║██╔══╝  ██║   ██║██║╚════██║
+██║  ██║███████╗╚██████╔╝██║███████║
+╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝╚══════╝
+
+══════════════════════════════════════════════════════════════
+
+> Initializing AEGIS...
+> Loading Authentication Engine...  ✓
+> Loading AI Security Modules...    ✓
+> System Status: ONLINE
+
+══════════════════════════════════════════════════════════════
+```
+
 AI-Powered Cybersecurity & Authentication Framework
 
 A Python-based cybersecurity toolkit simulating secure authentication mechanisms, password evaluation, CSPRNG password generation, and detection algorithms for brute-force and password-guessing attacks.
