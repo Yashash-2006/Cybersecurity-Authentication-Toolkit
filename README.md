@@ -1,14 +1,5 @@
 # Cybersecurity Authentication Toolkit
 
-```text
- █████╗ ███████╗ ██████╗ ██╗███████╗
-██╔══██╗██╔════╝██╔════╝ ██║██╔════╝
-███████║█████╗  ██║  ███╗██║███████╗
-██╔══██║██╔══╝  ██║   ██║██║╚════██║
-██║  ██║███████╗╚██████╔╝██║███████║
-╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝╚══════╝
-```text
-
 AI-Powered Cybersecurity & Authentication Framework
 
 A Python-based cybersecurity toolkit simulating secure authentication mechanisms, password evaluation, CSPRNG password generation, and detection algorithms for brute-force and password-guessing attacks.
